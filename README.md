@@ -1,7 +1,7 @@
 # OnlineTestPortal
 Online Placement Test portal<br>
 This is our project for course Practice of Programming.<br>
-It will have these basic functionalities : 
+It will have atleast these basic functionalities : 
 * Registered user can create tests and invite students to take tests. Only invited students will be able to take the test.
 * Users can also submit problems. If they want to submit MCQ, they can submit their question along with options and correct ans. They can also submit coding question by submitting the problem statement and test data.
 * Users can also report any question if they think the ans is wrong.
